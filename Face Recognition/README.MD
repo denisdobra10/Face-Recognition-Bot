@@ -1,5 +1,6 @@
 # Face Recognition Bot
 
+
 # Detects wheter an image contains a human face or not
 Just be sure to provide the set of images in the folder 'images' that should be inside the same directory with the script on running.
 
